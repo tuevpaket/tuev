@@ -21,3 +21,4 @@ Encoding: UTF-8
 LazyData: true
 URL: https://github.com/tuevpaket/tuev
 BugReports: https://github.com/tuevpaket/tuev/issues
+RoxygenNote: 7.1.1
