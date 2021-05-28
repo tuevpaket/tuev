@@ -8,11 +8,13 @@ Bu kütüphanenin amacı geniş kapsamlı uluslararası başarı değerlendirme 
 Nasıl kullanılır?
 -----------------
 
+Kütüphaneye GitHub hesabından erişilebilir:
+
 ``` r
-install.packages("tuev")
+devtools::install_github("tuevpaket/tuev")
 ```
 
 Örnekler
 --------
 
-Bu verilerden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/774923> sayfasından erişilebilir.
+PISA 2018 ve TIMSS 2019 verilerinden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/774923> sayfasından erişilebilir.
