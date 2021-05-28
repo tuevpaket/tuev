@@ -8,8 +8,6 @@ Bu kütüphanenin amacı geniş kapsamlı uluslararası başarı değerlendirme 
 Nasıl kullanılır?
 -----------------
 
-You can install the released version of tuev from [CRAN](https://CRAN.R-project.org) with:
-
 ``` r
 install.packages("tuev")
 ```
