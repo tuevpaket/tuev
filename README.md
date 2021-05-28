@@ -15,4 +15,4 @@ devtools::install_github("tuevpaket/tuev")
 Örnekler
 --------
 
-Bu verilerden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/774923> sayfasından erişilebilir.
+Bu verilerden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/775269> sayfasından erişilebilir.
