@@ -1,11 +1,22 @@
 Package: tuev
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Turkiye Uluslararasi Egitim Verisi
 Version: 0.1.0
-Author: Who wrote it
+Author: Kubra Atalay Kabasakal, Rabia Karatoprak Ersen
+Authors@R: 
+    c(person(given = "Kubra",
+           family = "Atalay Kabasakal",
+           role = c("aut", "cre"),
+           email = "katalay@hacettepe.edu.tr",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+      person(given = "Rabia",
+           family = "Karatoprak Ersen",
+           role = c("aut", "cph"),
+           email = "rabiakersen@kastamonu.edu.tr",
+           comment = c(ORCID = "YOUR-ORCID-ID")))
 Maintainer: The package maintainer <yourself@somewhere.net>
 Description: Bu kütüphanenin amacı geniş kapsamlı uluslararası başarı değerlendirme programlarından PISA ve TIMSS Türkiye verilerini depolamaktır.
-License: GPL-3
+License: GPL2
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/tuevpaket/tuev
