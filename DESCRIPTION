@@ -16,9 +16,11 @@ Authors@R:
            comment = c(ORCID = "YOUR-ORCID-ID")))
 Maintainer: Rabia Karatoprak Erşen <rabiakersen@kastamonu.edu.tr>
 Description: Bu kütüphanenin amacı geniş kapsamlı uluslararası başarı değerlendirme programlarından PISA ve TIMSS Türkiye verilerini depolamaktır.
-License: GPL2
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 URL: https://github.com/tuevpaket/tuev
 BugReports: https://github.com/tuevpaket/tuev/issues
 RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
