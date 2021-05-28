@@ -14,3 +14,5 @@ install.packages("tuev")
 
 Örnekler
 --------
+
+Bu verilerden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/774923> sayfasından erişilebilir.
