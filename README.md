@@ -9,7 +9,7 @@ Nasıl kullanılır?
 -----------------
 
 ``` r
-install.packages("tuev")
+devtools::install_github("tuevpaket/tuev")
 ```
 
 Örnekler
