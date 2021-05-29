@@ -4,15 +4,15 @@ Title: Türkiye Uluslararası Eğitim Verisi
 Version: 0.1.0
 Author: Rabia Karatoprak Erşen, Kubra Atalay Kabasakal
 Authors@R: 
-    c(person(given = "Kubra",
-           family = "Atalay Kabasakal",
-           role = c("aut", "cre"),
-           email = "katalay@hacettepe.edu.tr",
-           comment = c(ORCID = "YOUR-ORCID-ID")),
-      person(given = "Rabia",
+    c(person(given = "Rabia",
            family = "Karatoprak Erşen",
            role = c("aut", "cph"),
            email = "rabiakersen@kastamonu.edu.tr",
+           comment = c(ORCID = "YOUR-ORCID-ID")),
+    person(given = "Kubra",
+           family = "Atalay Kabasakal",
+           role = c("aut", "cre"),
+           email = "katalay@hacettepe.edu.tr",
            comment = c(ORCID = "YOUR-ORCID-ID")))
 Maintainer: Rabia Karatoprak Erşen <rabiakersen@kastamonu.edu.tr>
 Description: Bu kütüphanenin amacı geniş kapsamlı uluslararası başarı değerlendirme programlarından PISA ve TIMSS Türkiye verilerini depolamaktır.
