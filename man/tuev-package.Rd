@@ -20,11 +20,6 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Kubra Atalay Kabasakal \email{katalay@hacettepe.edu.tr} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
-
-Authors:
-\itemize{
-  \item Rabia Karatoprak Erşen \email{rabiakersen@kastamonu.edu.tr} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID}) [copyright holder]
-}
+\strong{Maintainer}: Rabia Karatoprak Erşen \email{rabiakersen@kastamonu.edu.tr} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
 
 }
