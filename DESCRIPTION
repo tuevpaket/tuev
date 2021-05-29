@@ -2,7 +2,7 @@ Package: tuev
 Type: Package
 Title: Türkiye Uluslararası Eğitim Verisi
 Version: 0.1.0
-Author: Kubra Atalay Kabasakal, Rabia Karatoprak Erşen
+Author: Rabia Karatoprak Erşen, Kubra Atalay Kabasakal
 Authors@R: 
     c(person(given = "Kubra",
            family = "Atalay Kabasakal",
