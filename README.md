@@ -17,4 +17,4 @@ devtools::install_github("tuevpaket/tuev")
 Örnekler
 --------
 
-PISA 2018 ve TIMSS 2019 verilerinden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/774923> sayfasından erişilebilir.
+PISA 2018 ve TIMSS 2019 verilerinden seçilmiş belirli değişkenlerin kullanılarak oluşturulduğu örnek grafiklere <https://rpubs.com/tuevpaket/775269> sayfasından erişilebilir.
